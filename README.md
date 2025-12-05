@@ -1,3 +1,5 @@
+### This repo contain powershell scripts to gathner necessary logs for troubleshooting windows AD
+
 ### Check your Execution policy in your run environment
 Get-ExecutionPolicy
 
