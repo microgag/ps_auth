@@ -7,6 +7,7 @@ Bypass - No restriction and No warning
 Undefine - No execution policy is set 
 
 ### How to run
+```
 .\start-auth.ps1 (# accept the EULA)
 .\stop-auth.ps1
 
