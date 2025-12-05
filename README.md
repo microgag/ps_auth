@@ -12,3 +12,4 @@ Undefine - No execution policy is set
 .\stop-auth.ps1
 
 folder with authlogs would be created.
+```
